@@ -3,7 +3,7 @@
 #include <ctype.h>
 #include <stdlib.h>
 
-
+// ola
 #define LIVROS "Livros.dat"
 #define CLIENTES "Clientes.dat"
 #define VENDAS "Vendas.dat"
